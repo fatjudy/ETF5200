@@ -1,2 +1,2 @@
-# fatjodie0510-yahoo.com
-ETF5200
+# Tutorials for ETF5200
+Week 3 Exercises
