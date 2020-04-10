@@ -3,6 +3,7 @@
 # Question 1 
 # ARIMA(1,0,1)
 ts1 = arima.sim(500,model = list(order = c(1,0,1), ar = c(0.8), ma = c(0.6)))
+# 500:sample size, order: ARIMA order, ar: AR coefficient, ma: MA coefficient
 plot(ts1)
 acf(ts1)
 
